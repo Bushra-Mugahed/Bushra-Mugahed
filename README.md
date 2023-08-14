@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bushra Mugahed</h1>
-<h3 align="center">I am a full stack web developer, with 1 year of experience with ruby-on-rails, and React/Redux experience. Currently looking for job/learning opportunity</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F765B9&width=435&lines=Full+stack+developer%2C;Computer+Science+Student%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs.." alt="Typing SVG" /></a>
+<h3 align="center">About me:I love coding specifically because I love the puzzle-solving aspect of it. I'm the sort of person who in order to relax on the weekend, solves coding challenges, builds games, and enters hackathons.
+  
+</h3>
 <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWqBse_o-ZuJljKyBtDA1rWkdvTpcasfX0Q&usqp=CAU">
+
 - you can reach me at: **bushramr441@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
